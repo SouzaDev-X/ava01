@@ -1,0 +1,3 @@
+api-estoque/node_modules/
+app-estoque/node_modules/
+*.env
